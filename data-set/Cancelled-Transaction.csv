@@ -1,0 +1,976 @@
+,,,
+, Order Number , Cancel Stakeholder , Cancel Reason 
+,"201708070642912,000", System , No response from seller 
+,"201708150868462,000", Seller , Sold out 
+,"201712092803286,000", System , No response from seller 
+,"201708020451422,000", Seller , Incorrect price information 
+,"201707179812794,000", System , No response from seller 
+,"201709271789727,000", Seller , No response from seller 
+,"201708180929537,000", Seller , No response from seller 
+,"201712032720545,000", Seller , No response from seller 
+,"201710302263761,000", Seller , Incorrect price information 
+,"201708251114293,000", Seller , Delivery Delay 
+,"201711222588192,000", Seller , No response from seller 
+,"201708231079560,000", System , No response from seller 
+,"201710112004174,000", Seller , No response from seller 
+,"201709181632591,000", Seller , No response from seller 
+,"201710232170401,000", Seller , Sold out 
+,"201710182111365,000", Buyer , Misplaced Order 
+,"201709091467204,000", Seller , No response from seller 
+,"201710282239677,000", Seller , No response from seller 
+,"201711122453446,000", Seller , No response from seller 
+,"201708080658856,000", Buyer , Get lower price 
+,"201707028949726,000", Seller , No response from seller 
+,"201710182114048,000", Seller , No response from seller 
+,"201710292253398,000", Seller , No response from seller 
+,"201711042343737,000", Seller , Sold out 
+,"201707059173647,000", Buyer , Misplaced Order 
+,"201709291819812,000", Seller , Sold out 
+,"201712012700297,000", Seller , No response from seller 
+,"201712022713821,000", Seller , Sold out 
+,"201710101993563,000", Seller , No response from seller 
+,"201711162510391,000", Seller , Sold out 
+,"201709041336239,000", Seller , No response from seller 
+,"201712102819352,000", System , No response from seller 
+,"201710312276866,000", Seller , No response from seller 
+,"201707129566618,000", Seller , No response from seller 
+,"201706298809858,000", Seller , Incorrect price information 
+,"201707219980064,000", System , No response from seller 
+,"201711182538536,000", Seller , No response from seller 
+,"201709281815080,000", Seller , No response from seller 
+,"201712122842172,000", Buyer , Misplaced Order 
+,"201711262638477,000", Buyer , Misplaced Order 
+,"201707310390380,000", Seller , Sold out 
+,"201709071412562,000", System , No response from seller 
+,"201709051375744,000", System , No response from seller 
+,"201709291826376,000", Seller , No response from seller 
+,"201710232180066,000", Seller , No response from seller 
+,"201707179797020,000", Buyer , Customer’s change of mind 
+,"201707189865968,000", System , No response from seller 
+,"201709031309494,000", System , No response from seller 
+,"201710111998247,000", Seller , Sold out 
+,"201707099380863,000", Seller , No response from seller 
+,"201707280257290,000", Buyer , Get lower price 
+,"201712052756382,000", Seller , Sold out 
+,"201710122023935,000", Seller , Sold out 
+,"201708070645734,000", Seller , Delivery Delay 
+,"201711032320109,000", Seller , No response from seller 
+,"201710182113702,000", Buyer , Misplaced Order 
+,"201707290285611,000", Seller , No response from seller 
+,"201708291189800,000", System , No response from seller 
+,"201706298812263,000", Seller , Incorrect price information 
+,"201710122024650,000", Seller , No response from seller 
+,"201712112829774,000", System , No response from seller 
+,"201711082393168,000", Seller , Sold out 
+,"201710041887887,000", Buyer , Get lower price 
+,"201711152504359,000", Seller , No response from seller 
+,"201710162071227,000", Seller , Sold out 
+,"201709121524789,000", Seller , No response from seller 
+,"201711102427203,000", Buyer , Get lower price 
+,"201709281803639,000", Seller , Sold out 
+,"201710041897966,000", System , No response from seller 
+,"201709171611529,000", Seller , Sold out 
+,"201712012705329,000", Buyer , Get lower price 
+,"201708281180035,000", System , No response from seller 
+,"201707209925222,000", Seller , No response from seller 
+,"201711282665118,000", Seller , No response from seller 
+,"201711032327750,000", Seller , No response from seller 
+,"201711062369055,000", Seller , No response from seller 
+,"201709201664789,000", Seller , No response from seller 
+,"201707079305198,000", Seller , Sold out 
+,"201709111502339,000", Seller , No response from seller 
+,"201707039068106,000", System , No response from seller 
+,"201710101985047,000", Seller , Incorrect price information 
+,"201712052751654,000", Seller , Sold out 
+,"201708130805802,000", Seller , No response from seller 
+,"201712042732691,000", Seller , No response from seller 
+,"201709221701273,000", Seller , Delivery Delay 
+,"201708241089980,000", Buyer , Misplaced Order 
+,"201710272227509,000", Seller , No response from seller 
+,"201712092805503,000", Seller , Sold out 
+,"201711052357510,000", Seller , Sold out 
+,"201711232600375,000", Buyer , Misplaced Order 
+,"201710272231571,000", Seller , Sold out 
+,"201711082394673,000", Seller , Sold out 
+,"201709221710997,000", Seller , Delivery Delay 
+,"201710312280768,000", Buyer , Get lower price 
+,"201709241739272,000", Seller , Sold out 
+,"201708231080846,000", Seller , No response from seller 
+,"201712082796900,000", System , No response from seller 
+,"201708301223857,000", Seller , Delivery Delay 
+,"201709041322793,000", Seller , Sold out 
+,"201709051368355,000", Buyer , Get lower price 
+,"201712122846769,000", System , No response from seller 
+,"201707189858826,000", System , No response from seller 
+,"201710112004209,000", Seller , No response from seller 
+,"201711132468038,000", Seller , No response from seller 
+,"201708020458463,000", Seller , Sold out 
+,"201712022715839,000", System , No response from seller 
+,"201710071935978,000", Buyer , Get lower price 
+,"201711092411612,000", Buyer , Get lower price 
+,"201710182113859,000", Buyer , Misplaced Order 
+,"201710232182339,000", Seller , No response from seller 
+,"201711012295298,000", Seller , Incorrect price information 
+,"201712062765395,000", Seller , Sold out 
+,"201712082791001,000", System , No response from seller 
+,"201709121521028,000", Seller , Delivery Delay 
+,"201712122843317,000", Buyer , Misplaced Order 
+,"201710091972531,000", Buyer , Get lower price 
+,"201712092803551,000", System , No response from seller 
+,"201709191645958,000", Seller , No response from seller 
+,"201711152507231,000", Seller , Sold out 
+,"201708311254764,000", Seller , No response from seller 
+,"201710031874352,000", Seller , Sold out 
+,"201710081951411,000", Seller , Sold out 
+,"201711062366780,000", Seller , No response from seller 
+,"201709271789055,000", Seller , Sold out 
+,"201711232597456,000", Buyer , Get lower price 
+,"201710091961990,000", System , No response from seller 
+,"201710182113730,000", Buyer , Misplaced Order 
+,"201708291195931,000", Seller , No response from seller 
+,"201709031309983,000", Buyer , Get lower price 
+,"201709261769788,000", Seller , Sold out 
+,"201712052753437,000", Seller , No response from seller 
+,"201712012699682,000", Seller , Sold out 
+,"201707089325531,000", Seller , No response from seller 
+,"201708301225662,000", Buyer , Get lower price 
+,"201708261144141,000", System , No response from seller 
+,"201709261771053,000", Seller , Sold out 
+,"201710122029201,000", Seller , No response from seller 
+,"201712022712740,000", System , No response from seller 
+,"201710252199182,000", Seller , No response from seller 
+,"201709041337072,000", Buyer , Misplaced Order 
+,"201709181642538,000", System , No response from seller 
+,"201712072779619,000", System , No response from seller 
+,"201712012705903,000", Seller , No response from seller 
+,"201712032720455,000", Seller , No response from seller 
+,"201711202561715,000", System , No response from seller 
+,"201711282669882,000", Seller , No response from seller 
+,"201712022714473,000", Buyer , Get lower price 
+,"201707049084161,000", Buyer , Get lower price 
+,"201709051368191,000", Seller , No response from seller 
+,"201709271792179,000", Seller , Delivery Delay 
+,"201707230045588,000", Seller , No response from seller 
+,"201712052754108,000", Buyer , Get lower price 
+,"201711022316715,000", Seller , Sold out 
+,"201710061923764,000", Seller , Delivery Delay 
+,"201712082795802,000", Seller , Incorrect price information 
+,"201707099376522,000", Buyer , Get lower price 
+,"201712052755816,000", System , No response from seller 
+,"201709221695636,000", Seller , Sold out 
+,"201712112839530,000", System , No response from seller 
+,"201707199866768,000", Seller , No response from seller 
+,"201709141573492,000", Seller , Sold out 
+,"201709261765359,000", Seller , No response from seller 
+,"201710282244177,000", Seller , Sold out 
+,"201710041890959,000", Seller , No response from seller 
+,"201711052355637,000", Seller , Sold out 
+,"201710302262094,000", Seller , Sold out 
+,"201712022711733,000", Seller , No response from seller 
+,"201712062766653,000", Seller , No response from seller 
+,"201707089375654,000", Seller , No response from seller 
+,"201711072382715,000", Seller , No response from seller 
+,"201707169773626,000", System , No response from seller 
+,"201707119522489,000", Seller , No response from seller 
+,"201712092804143,000", System , No response from seller 
+,"201712042744556,000", Seller , Sold out 
+,"201709171621942,000", Seller , Sold out 
+,"201710071943656,000", Seller , No response from seller 
+,"201709101482656,000", System , No response from seller 
+,"201709031308095,000", Seller , No response from seller 
+,"201707089361692,000", Seller , No response from seller 
+,"201712022716090,000", System , No response from seller 
+,"201711302686663,000", Buyer , Get lower price 
+,"201710122017874,000", Seller , Incorrect price information 
+,"201710091968034,000", Seller , Sold out 
+,"201708070638340,000", Seller , Delivery Delay 
+,"201708301212231,000", System , No response from seller 
+,"201708190970076,000", System , No response from seller 
+,"201707149688341,000", Buyer , Get lower price 
+,"201711262632799,000", Seller , No response from seller 
+,"201707059153932,000", Seller , No response from seller 
+,"201711282661571,000", Seller , No response from seller 
+,"201709251745439,000", Seller , Sold out 
+,"201711132474943,000", Seller , Sold out 
+,"201709011275132,000", Buyer , Get lower price 
+,"201709051369133,000", Buyer , Get lower price 
+,"201709291829241,000", Buyer , Misplaced Order 
+,"201712022714474,000", Seller , Incorrect price information 
+,"201712042735597,000", Seller , Sold out 
+,"201709071413743,000", Seller , Sold out 
+,"201708130806867,000", Seller , No response from seller 
+,"201710182113756,000", Buyer , Misplaced Order 
+,"201708010403155,000", Seller , No response from seller 
+,"201707099399963,000", Seller , No response from seller 
+,"201707169769729,000", System , No response from seller 
+,"201709061390247,000", Seller , No response from seller 
+,"201709201664800,000", Seller , Sold out 
+,"201710312280363,000", Seller , No response from seller 
+,"201710172097907,000", Buyer , Get lower price 
+,"201710162071779,000", System , No response from seller 
+,"201712012699868,000", Seller , No response from seller 
+,"201709111507426,000", Seller , Sold out 
+,"201709121526829,000", Buyer , Misplaced Order 
+,"201712062762963,000", System , No response from seller 
+,"201712092807460,000", System , No response from seller 
+,"201711032327197,000", Seller , Incorrect price information 
+,"201709221698924,000", Buyer , Get lower price 
+,"201711222595549,000", System , No response from seller 
+,"201707109472079,000", Seller , Sold out 
+,"201712042731516,000", Seller , Sold out 
+,"201711022311628,000", Seller , No response from seller 
+,"201712022717075,000", Buyer , Get lower price 
+,"201710172098608,000", Seller , No response from seller 
+,"201712082792588,000", Seller , Sold out 
+,"201711192556656,000", Seller , No response from seller 
+,"201711032328315,000", Buyer , Customer’s change of mind 
+,"201711242614596,000", Buyer , Get lower price 
+,"201709301845494,000", System , No response from seller 
+,"201712062769820,000", Seller , Sold out 
+,"201711252629976,000", Seller , No response from seller 
+,"201712092807747,000", System , No response from seller 
+,"201711082389944,000", Seller , Sold out 
+,"201708070632255,000", Seller , No response from seller 
+,"201709161608179,000", Seller , No response from seller 
+,"201707039075774,000", System , No response from seller 
+,"201710132033836,000", Seller , Sold out 
+,"201710202139771,000", Seller , No response from seller 
+,"201709021284788,000", Seller , No response from seller 
+,"201712082791818,000", System , No response from seller 
+,"201712012702833,000", Seller , No response from seller 
+,"201709291824311,000", Seller , No response from seller 
+,"201712022714797,000", System , No response from seller 
+,"201712092810150,000", System , No response from seller 
+,"201712062766493,000", Buyer , Misplaced Order 
+,"201707049121938,000", Buyer , Get lower price 
+,"201709121517106,000", Buyer , Get lower price 
+,"201708281178209,000", System , No response from seller 
+,"201707059146153,000", Seller , No response from seller 
+,"201711222591081,000", Seller , Sold out 
+,"201708241091397,000", Buyer , Misplaced Order 
+,"201708040519369,000", System , No response from seller 
+,"201712112837779,000", System , No response from seller 
+,"201712092806120,000", System , No response from seller 
+,"201708311243007,000", Seller , No response from seller 
+,"201709141558346,000", Seller , No response from seller 
+,"201711132467317,000", Seller , Sold out 
+,"201709281797823,000", Buyer , Get lower price 
+,"201709131545157,000", Seller , No response from seller 
+,"201709111506748,000", Seller , No response from seller 
+,"201712072786356,000", System , No response from seller 
+,"201709051370240,000", Buyer , Get lower price 
+,"201708210999555,000", Buyer , Get lower price 
+,"201708301225503,000", Seller , Sold out 
+,"201712022712460,000", Seller , No response from seller 
+,"201711162512360,000", Seller , No response from seller 
+,"201712052756100,000", Seller , No response from seller 
+,"201711052349597,000", Seller , Sold out 
+,"201711102428307,000", Seller , Sold out 
+,"201712012705467,000", Seller , No response from seller 
+,"201711172529966,000", Seller , No response from seller 
+,"201708210998597,000", System , No response from seller 
+,"201712022714794,000", System , No response from seller 
+,"201710122015043,000", Buyer , Get lower price 
+,"201709161607750,000", Seller , No response from seller 
+,"201707159714360,000", Buyer , Misplaced Order 
+,"201709111506137,000", Seller , Sold out 
+,"201712122845707,000", System , No response from seller 
+,"201711202559386,000", Seller , No response from seller 
+,"201712052753546,000", Seller , Sold out 
+,"201709291821349,000", Buyer , Get lower price 
+,"201712042741628,000", Seller , No response from seller 
+,"201710071944538,000", Seller , No response from seller 
+,"201708090681924,000", Seller , No response from seller 
+,"201707109441237,000", Seller , Sold out 
+,"201712022714075,000", Buyer , Get lower price 
+,"201708010408754,000", System , No response from seller 
+,"201708090711163,000", Buyer , Get lower price 
+,"201711302686954,000", Seller , No response from seller 
+,"201707280280372,000", Seller , No response from seller 
+,"201712122854615,000", System , No response from seller 
+,"201710282243007,000", Seller , No response from seller 
+,"201709221703774,000", Seller , Sold out 
+,"201712022708923,000", Seller , No response from seller 
+,"201709091463878,000", Seller , No response from seller 
+,"201711032321682,000", Seller , Sold out 
+,"201708070634366,000", Seller , Incorrect price information 
+,"201710192118083,000", Buyer , Customer’s change of mind 
+,"201711232598969,000", Buyer , Get lower price 
+,"201710242194359,000", Seller , No response from seller 
+,"201712092806861,000", Seller , No response from seller 
+,"201711102431210,000", Buyer , Misplaced Order 
+,"201709281813654,000", System , No response from seller 
+,"201712102810687,000", Buyer , Misplaced Order 
+,"201709061397061,000", Buyer , Get lower price 
+,"201712022713186,000", Seller , Sold out 
+,"201710101976946,000", Seller , No response from seller 
+,"201708120785503,000", Seller , No response from seller 
+,"201707039076813,000", System , No response from seller 
+,"201712022710497,000", Buyer , Customer’s change of mind 
+,"201712042740346,000", Seller , No response from seller 
+,"201710031884942,000", System , No response from seller 
+,"201711012298016,000", Seller , Sold out 
+,"201711052354710,000", Buyer , Get lower price 
+,"201712012702834,000", Seller , No response from seller 
+,"201712012701011,000", System , No response from seller 
+,"201712072776563,000", System , No response from seller 
+,"201708221045924,000", Seller , No response from seller 
+,"201708020462747,000", Seller , Sold out 
+,"201709281814361,000", System , No response from seller 
+,"201712112832166,000", Buyer , Get lower price 
+,"201710011851711,000", System , No response from seller 
+,"201709271787765,000", Seller , No response from seller 
+,"201712112840264,000", System , No response from seller 
+,"201711222588201,000", Seller , No response from seller 
+,"201709031300151,000", Seller , No response from seller 
+,"201710071946117,000", Seller , No response from seller 
+,"201708301224029,000", Buyer , Get lower price 
+,"201710232173317,000", Seller , No response from seller 
+,"201712092804578,000", System , No response from seller 
+,"201711152497083,000", Buyer , Get lower price 
+,"201709031306353,000", Seller , Sold out 
+,"201711142492969,000", Buyer , Get lower price 
+,"201710061922337,000", Seller , No response from seller 
+,"201711202566692,000", Seller , No response from seller 
+,"201712042742988,000", Seller , No response from seller 
+,"201710112001878,000", Seller , No response from seller 
+,"201707089342259,000", Seller , No response from seller 
+,"201710162083756,000", Buyer , Get lower price 
+,"201709081431220,000", Buyer , Get lower price 
+,"201710021865087,000", Seller , No response from seller 
+,"201712052750918,000", Seller , No response from seller 
+,"201708211008149,000", Seller , Sold out 
+,"201707028947250,000", System , No response from seller 
+,"201707109434872,000", Seller , No response from seller 
+,"201709181637250,000", Seller , Sold out 
+,"201708231072982,000", System , No response from seller 
+,"201712092807425,000", System , No response from seller 
+,"201712012697813,000", Seller , Delivery Delay 
+,"201709181637144,000", Seller , No response from seller 
+,"201710182111788,000", Buyer , Misplaced Order 
+,"201711082389494,000", Seller , No response from seller 
+,"201710272233000,000", Seller , Sold out 
+,"201709251751517,000", Seller , No response from seller 
+,"201708291203462,000", System , No response from seller 
+,"201708271158508,000", Seller , No response from seller 
+,"201709031304063,000", Buyer , Get lower price 
+,"201708170924845,000", Seller , No response from seller 
+,"201712082796550,000", System , No response from seller 
+,"201709041315767,000", Seller , No response from seller 
+,"201711142483741,000", Buyer , Get lower price 
+,"201710182112921,000", Buyer , Misplaced Order 
+,"201712042735539,000", Seller , No response from seller 
+,"201709031295856,000", Buyer , Get lower price 
+,"201709181635479,000", Seller , Sold out 
+,"201707139603027,000", Seller , No response from seller 
+,"201711152494331,000", Seller , Delivery Delay 
+,"201710222158577,000", Seller , No response from seller 
+,"201709011263867,000", Buyer , Get lower price 
+,"201709131544058,000", Seller , No response from seller 
+,"201709011260829,000", Seller , Sold out 
+,"201708221033993,000", System , No response from seller 
+,"201709061382511,000", System , No response from seller 
+,"201711042342544,000", Seller , No response from seller 
+,"201710091969163,000", Seller , No response from seller 
+,"201710122025805,000", System , No response from seller 
+,"201709091464949,000", Seller , Sold out 
+,"201709061383301,000", Seller , No response from seller 
+,"201708281180520,000", Buyer , Get lower price 
+,"201709051348411,000", Seller , No response from seller 
+,"201712012698479,000", Seller , No response from seller 
+,"201708090698932,000", Buyer , Get lower price 
+,"201712072774406,000", System , No response from seller 
+,"201710031880914,000", Seller , No response from seller 
+,"201709261763514,000", Seller , Sold out 
+,"201709091463132,000", Seller , No response from seller 
+,"201708110756163,000", Seller , Sold out 
+,"201707059149163,000", Seller , Delivery Delay 
+,"201712052755675,000", System , No response from seller 
+,"201707069195710,000", System , No response from seller 
+,"201709051375912,000", Seller , No response from seller 
+,"201712042732686,000", System , No response from seller 
+,"201711272653276,000", Seller , No response from seller 
+,"201711272652179,000", System , No response from seller 
+,"201712052750692,000", Seller , No response from seller 
+,"201712032720529,000", Seller , No response from seller 
+,"201711122457310,000", Seller , Sold out 
+,"201710272226520,000", Seller , No response from seller 
+,"201709031307359,000", Buyer , Get lower price 
+,"201708120798720,000", Seller , No response from seller 
+,"201710222161582,000", Buyer , Get lower price 
+,"201709021283906,000", Seller , Sold out 
+,"201711202569195,000", System , No response from seller 
+,"201711272644687,000", Seller , No response from seller 
+,"201710041892879,000", Seller , Sold out 
+,"201710031875731,000", Buyer , Get lower price 
+,"201710182114704,000", Buyer , Misplaced Order 
+,"201712112835487,000", Buyer , Misplaced Order 
+,"201708291203839,000", Seller , No response from seller 
+,"201712042733230,000", System , No response from seller 
+,"201709121529049,000", Seller , Sold out 
+,"201708170928802,000", Seller , No response from seller 
+,"201710252198196,000", Seller , Sold out 
+,"201710091974702,000", Seller , No response from seller 
+,"201712032725621,000", Seller , No response from seller 
+,"201712062762193,000", Seller , Sold out 
+,"201708231073510,000", Seller , Sold out 
+,"201712052756554,000", Seller , Sold out 
+,"201711022310065,000", Seller , No response from seller 
+,"201710061923773,000", Seller , No response from seller 
+,"201711012286260,000", System , No response from seller 
+,"201709021277752,000", System , No response from seller 
+,"201707028976199,000", System , No response from seller 
+,"201712042740836,000", Seller , No response from seller 
+,"201710061927694,000", System , No response from seller 
+,"201710282244507,000", Seller , Sold out 
+,"201711082396314,000", System , No response from seller 
+,"201712032723026,000", Seller , Delivery Delay 
+,"201708090684454,000", Seller , No response from seller 
+,"201711282664497,000", Seller , No response from seller 
+,"201710051910222,000", Seller , Sold out 
+,"201711272654684,000", System , No response from seller 
+,"201708281184742,000", Seller , Sold out 
+,"201712032729158,000", System , No response from seller 
+,"201708291206940,000", System , No response from seller 
+,"201711132470079,000", Seller , Sold out 
+,"201710172091200,000", Seller , Sold out 
+,"201711272643196,000", Seller , No response from seller 
+,"201710162074993,000", Seller , No response from seller 
+,"201707149683946,000", Seller , No response from seller 
+,"201712042739977,000", Seller , Sold out 
+,"201712032724254,000", Buyer , Get lower price 
+,"201709101490469,000", System , No response from seller 
+,"201709051368633,000", Buyer , Get lower price 
+,"201708020446512,000", System , No response from seller 
+,"201710182116087,000", Buyer , Customer’s change of mind 
+,"201709101482446,000", System , No response from seller 
+,"201712112822355,000", Buyer , Get lower price 
+,"201711032321557,000", Seller , Sold out 
+,"201712042732131,000", Seller , No response from seller 
+,"201709151587346,000", Seller , No response from seller 
+,"201712112835049,000", System , No response from seller 
+,"201712082793503,000", Seller , No response from seller 
+,"201709021281177,000", Seller , No response from seller 
+,"201709151591237,000", Buyer , Misplaced Order 
+,"201712012699626,000", System , No response from seller 
+,"201712082789814,000", Seller , Sold out 
+,"201710312283183,000", System , No response from seller 
+,"201711112447883,000", Seller , Sold out 
+,"201708130813579,000", Seller , No response from seller 
+,"201712062761123,000", System , No response from seller 
+,"201711102430906,000", Seller , No response from seller 
+,"201710292256574,000", Seller , Sold out 
+,"201708170915102,000", System , No response from seller 
+,"201707189828526,000", Seller , No response from seller 
+,"201709131555111,000", Seller , Sold out 
+,"201711142487577,000", Seller , Sold out 
+,"201712122842311,000", System , No response from seller 
+,"201711072386801,000", Buyer , Get lower price 
+,"201707199875841,000", System , No response from seller 
+,"201710011856342,000", Buyer , Customer’s change of mind 
+,"201709131546157,000", Buyer , Customer’s change of mind 
+,"201707069211449,000", Seller , No response from seller 
+,"201710262212597,000", Buyer , Get lower price 
+,"201711092407666,000", Seller , No response from seller 
+,"201712042731799,000", System , No response from seller 
+,"201711292682584,000", Seller , No response from seller 
+,"201710142058477,000", Seller , No response from seller 
+,"201708291208947,000", Seller , No response from seller 
+,"201712042741183,000", Seller , No response from seller 
+,"201711092417897,000", Seller , Sold out 
+,"201708311255055,000", Seller , No response from seller 
+,"201709061381428,000", System , No response from seller 
+,"201707179791638,000", Buyer , Misplaced Order 
+,"201709011270648,000", Seller , No response from seller 
+,"201706298809879,000", Seller , Incorrect price information 
+,"201710021862100,000", System , No response from seller 
+,"201707149673034,000", Seller , Sold out 
+,"201712022711159,000", Seller , No response from seller 
+,"201711122463282,000", Seller , No response from seller 
+,"201712062765543,000", Buyer , Get lower price 
+,"201709061390887,000", Seller , Sold out 
+,"201712032721623,000", Seller , No response from seller 
+,"201709201669274,000", Buyer , Get lower price 
+,"201712012704338,000", Buyer , Get lower price 
+,"201710101988770,000", Seller , Sold out 
+,"201712072779103,000", Seller , No response from seller 
+,"201710182113347,000", Buyer , Misplaced Order 
+,"201710162084422,000", Seller , Sold out 
+,"201709021286715,000", Buyer , Misplaced Order 
+,"201708211012070,000", System , No response from seller 
+,"201709301846274,000", Seller , Sold out 
+,"201708020453621,000", Buyer , Misplaced Order 
+,"201711162517918,000", System , No response from seller 
+,"201709281802393,000", Seller , No response from seller 
+,"201712032723789,000", Seller , No response from seller 
+,"201709121520122,000", Seller , Sold out 
+,"201711042339693,000", Seller , Delivery Delay 
+,"201711202563585,000", Buyer , Misplaced Order 
+,"201712092805898,000", System , No response from seller 
+,"201707079307575,000", Buyer , Customer’s change of mind 
+,"201711042338254,000", Seller , Sold out 
+,"201711132477549,000", Seller , No response from seller 
+,"201711082399409,000", Seller , No response from seller 
+,"201709051360292,000", Buyer , Get lower price 
+,"201709111505798,000", Seller , No response from seller 
+,"201709241730958,000", Seller , No response from seller 
+,"201712112834580,000", System , No response from seller 
+,"201710081957250,000", Seller , Sold out 
+,"201707049117000,000", System , No response from seller 
+,"201709221697976,000", Buyer , Get lower price 
+,"201711062374114,000", Seller , Sold out 
+,"201712092805582,000", System , No response from seller 
+,"201712052753365,000", Seller , Sold out 
+,"201712052750051,000", Seller , No response from seller 
+,"201710031883824,000", Seller , Sold out 
+,"201708271154331,000", Seller , Sold out 
+,"201709111510325,000", Seller , No response from seller 
+,"201707109460652,000", Seller , No response from seller 
+,"201710132030597,000", Seller , Delivery Delay 
+,"201708291206316,000", Seller , No response from seller 
+,"201709031296395,000", Seller , No response from seller 
+,"201708200992374,000", Seller , No response from seller 
+,"201709051355526,000", Seller , No response from seller 
+,"201709101491131,000", Seller , No response from seller 
+,"201707079276535,000", Seller , No response from seller 
+,"201709221698522,000", Seller , No response from seller 
+,"201707079271429,000", Seller , Sold out 
+,"201710112002296,000", Seller , No response from seller 
+,"201712022714623,000", Seller , No response from seller 
+,"201712072779964,000", System , No response from seller 
+,"201707159721930,000", System , No response from seller 
+,"201710132039111,000", Seller , No response from seller 
+,"201709091460976,000", Seller , Sold out 
+,"201708291189089,000", Seller , No response from seller 
+,"201710021863671,000", Seller , Incorrect price information 
+,"201708241103115,000", Seller , No response from seller 
+,"201711092408592,000", Seller , No response from seller 
+,"201710242183892,000", Seller , No response from seller 
+,"201707159711297,000", System , No response from seller 
+,"201710152063214,000", Seller , No response from seller 
+,"201712052752618,000", Buyer , Get lower price 
+,"201709071404533,000", Seller , No response from seller 
+,"201708311235512,000", Seller , No response from seller 
+,"201707240087678,000", System , No response from seller 
+,"201707290319900,000", System , No response from seller 
+,"201712112835966,000", System , No response from seller 
+,"201707139614655,000", System , No response from seller 
+,"201710162071823,000", System , No response from seller 
+,"201712052752015,000", Seller , No response from seller 
+,"201710172101278,000", Seller , No response from seller 
+,"201712092803410,000", System , No response from seller 
+,"201709251745588,000", Seller , Sold out 
+,"201711092414018,000", Seller , No response from seller 
+,"201712072783783,000", System , No response from seller 
+,"201707220012516,000", Seller , No response from seller 
+,"201712012701521,000", Seller , Sold out 
+,"201710312278289,000", Buyer , Get lower price 
+,"201712082789022,000", Seller , No response from seller 
+,"201708291205365,000", Seller , Sold out 
+,"201711022310416,000", Seller , No response from seller 
+,"201710051915741,000", Seller , No response from seller 
+,"201708090709378,000", System , No response from seller 
+,"201710202140476,000", Buyer , Misplaced Order 
+,"201709011265313,000", Seller , No response from seller 
+,"201712022714958,000", System , No response from seller 
+,"201707139611564,000", Buyer , Misplaced Order 
+,"201711272644895,000", Seller , No response from seller 
+,"201709011268466,000", Seller , No response from seller 
+,"201711012295130,000", Seller , No response from seller 
+,"201711072388250,000", Buyer , Customer’s change of mind 
+,"201710152066626,000", Seller , Incorrect price information 
+,"201707260168891,000", Buyer , Get lower price 
+,"201712062763861,000", Buyer , Misplaced Order 
+,"201710302258130,000", System , No response from seller 
+,"201707028976822,000", Buyer , Get lower price 
+,"201712012706217,000", Seller , No response from seller 
+,"201711262634287,000", Seller , No response from seller 
+,"201712052749729,000", System , No response from seller 
+,"201710192130778,000", Seller , No response from seller 
+,"201712012707234,000", System , No response from seller 
+,"201711152507073,000", Seller , Sold out 
+,"201710101993520,000", Seller , No response from seller 
+,"201711292681873,000", Seller , No response from seller 
+,"201712042740007,000", Seller , No response from seller 
+,"201707119509270,000", Seller , No response from seller 
+,"201711262637978,000", Buyer , Misplaced Order 
+,"201712092803919,000", System , No response from seller 
+,"201711032323486,000", System , No response from seller 
+,"201707049079205,000", System , No response from seller 
+,"201711292680944,000", Seller , Sold out 
+,"201707149700373,000", Seller , No response from seller 
+,"201712072779289,000", Seller , No response from seller 
+,"201711162518530,000", Seller , No response from seller 
+,"201711152504695,000", Buyer , Misplaced Order 
+,"201711052355828,000", Seller , Sold out 
+,"201709041324166,000", Seller , Sold out 
+,"201712092804335,000", System , No response from seller 
+,"201709031310758,000", Seller , Sold out 
+,"201708291204994,000", Seller , Sold out 
+,"201711032328264,000", Seller , Sold out 
+,"201712092805501,000", System , No response from seller 
+,"201709301836164,000", Seller , Sold out 
+,"201709251745323,000", Seller , Sold out 
+,"201707059158142,000", Seller , No response from seller 
+,"201711032320144,000", Seller , No response from seller 
+,"201712102810692,000", Buyer , Misplaced Order 
+,"201707149683443,000", Seller , Sold out 
+,"201708261127879,000", Seller , No response from seller 
+,"201708100730751,000", Seller , Sold out 
+,"201710222166834,000", Seller , Sold out 
+,"201709111500085,000", Seller , No response from seller 
+,"201709021286913,000", Seller , Delivery Delay 
+,"201711192552564,000", Seller , No response from seller 
+,"201712012706023,000", Seller , No response from seller 
+,"201712112839070,000", System , No response from seller 
+,"201712112831526,000", Buyer , Misplaced Order 
+,"201710312278980,000", Seller , Sold out 
+,"201710101981788,000", Seller , No response from seller 
+,"201711122458704,000", Buyer , Misplaced Order 
+,"201712062763911,000", System , No response from seller 
+,"201707169754355,000", System , No response from seller 
+,"201707139648709,000", Seller , No response from seller 
+,"201710122025617,000", Seller , Delivery Delay 
+,"201711302693021,000", Seller , Sold out 
+,"201710162075703,000", Seller , Sold out 
+,"201708040548274,000", Buyer , Misplaced Order 
+,"201712032724536,000", Seller , No response from seller 
+,"201709281809278,000", Buyer , Customer’s change of mind 
+,"201711232604918,000", Seller , Sold out 
+,"201711162521405,000", Seller , Sold out 
+,"201712022713380,000", Buyer , Misplaced Order 
+,"201707189858191,000", System , No response from seller 
+,"201707290313753,000", System , No response from seller 
+,"201710132033630,000", Buyer , Misplaced Order 
+,"201712092803809,000", System , No response from seller 
+,"201710192128790,000", Seller , No response from seller 
+,"201709191656471,000", Seller , Incorrect price information 
+,"201708150867447,000", System , No response from seller 
+,"201712072785841,000", Buyer , Misplaced Order 
+,"201710122023742,000", Seller , Sold out 
+,"201711222589443,000", Buyer , Misplaced Order 
+,"201708311235004,000", Seller , No response from seller 
+,"201710031878538,000", System , No response from seller 
+,"201711022301954,000", Seller , No response from seller 
+,"201710112001801,000", Buyer , Customer’s change of mind 
+,"201711292683437,000", Seller , No response from seller 
+,"201710101984597,000", Buyer , Get lower price 
+,"201712102820531,000", System , No response from seller 
+,"201711212576470,000", Seller , Sold out 
+,"201709291827658,000", Buyer , Get lower price 
+,"201710152060927,000", Seller , No response from seller 
+,"201710182114427,000", Buyer , Misplaced Order 
+,"201707179794984,000", Seller , Sold out 
+,"201709211687834,000", Buyer , Customer’s change of mind 
+,"201712052749292,000", Seller , No response from seller 
+,"201708221037249,000", Seller , Sold out 
+,"201707119504460,000", Buyer , Get lower price 
+,"201710081950801,000", Buyer , Get lower price 
+,"201709141556200,000", Seller , No response from seller 
+,"201710272235719,000", Seller , No response from seller 
+,"201707169757060,000", System , No response from seller 
+,"201707129600918,000", System , No response from seller 
+,"201707079252438,000", Seller , No response from seller 
+,"201711132478494,000", System , No response from seller 
+,"201707179817284,000", Seller , No response from seller 
+,"201711282665448,000", Buyer , Get lower price 
+,"201711292677684,000", Seller , No response from seller 
+,"201712072782252,000", System , No response from seller 
+,"201710182113069,000", Buyer , Misplaced Order 
+,"201712052755058,000", Buyer , Get lower price 
+,"201712112836840,000", System , No response from seller 
+,"201712062763326,000", Seller , Sold out 
+,"201710152061818,000", Seller , No response from seller 
+,"201710162074944,000", Seller , Sold out 
+,"201707109438862,000", Seller , Sold out 
+,"201712062766789,000", Seller , No response from seller 
+,"201710182114562,000", Buyer , Misplaced Order 
+,"201712112837884,000", System , No response from seller 
+,"201711112437899,000", Seller , Sold out 
+,"201709151593272,000", Seller , Sold out 
+,"201712032722791,000", Seller , No response from seller 
+,"201709051374510,000", Seller , Sold out 
+,"201708160884323,000", Seller , Sold out 
+,"201707089375314,000", Seller , No response from seller 
+,"201711142488698,000", Seller , No response from seller 
+,"201711052355488,000", Seller , Sold out 
+,"201712102810253,000", System , No response from seller 
+,"201709071409129,000", Seller , No response from seller 
+,"201710312275649,000", Seller , No response from seller 
+,"201710041890448,000", Seller , No response from seller 
+,"201708130817903,000", Buyer , Misplaced Order 
+,"201709041344139,000", System , No response from seller 
+,"201708211014169,000", System , No response from seller 
+,"201708301232026,000", System , No response from seller 
+,"201708010404477,000", Seller , No response from seller 
+,"201712122853470,000", System , No response from seller 
+,"201710142053940,000", Buyer , Customer’s change of mind 
+,"201711012291001,000", System , No response from seller 
+,"201708070622577,000", Seller , Sold out 
+,"201710252202770,000", Seller , Sold out 
+,"201712012697454,000", Seller , No response from seller 
+,"201709121522948,000", Seller , Sold out 
+,"201710212148680,000", Seller , No response from seller 
+,"201710202133025,000", Buyer , Customer’s change of mind 
+,"201712052750022,000", System , No response from seller 
+,"201710182113566,000", Buyer , Get lower price 
+,"201709041324004,000", Seller , No response from seller 
+,"201709041321069,000", Seller , Sold out 
+,"201709221704956,000", Buyer , Get lower price 
+,"201710101986767,000", Seller , Sold out 
+,"201709041325654,000", Seller , No response from seller 
+,"201712052756209,000", Seller , No response from seller 
+,"201709241737807,000", Seller , Sold out 
+,"201712042743007,000", Seller , No response from seller 
+,"201711072387812,000", Seller , Incorrect price information 
+,"201708210997153,000", System , No response from seller 
+,"201712042737236,000", Seller , No response from seller 
+,"201711222585097,000", Seller , No response from seller 
+,"201707069179319,000", Seller , No response from seller 
+,"201707219989760,000", Seller , Sold out 
+,"201709101486047,000", Seller , No response from seller 
+,"201709191647806,000", Buyer , Misplaced Order 
+,"201708190958229,000", Seller , No response from seller 
+,"201711062365512,000", Seller , Sold out 
+,"201709281809096,000", Seller , No response from seller 
+,"201711082402040,000", Seller , Sold out 
+,"201712042734664,000", Buyer , Misplaced Order 
+,"201711112451037,000", System , No response from seller 
+,"201710252197512,000", Seller , Sold out 
+,"201712072784925,000", Seller , Sold out 
+,"201707018882233,000", Seller , Sold out 
+,"201712092809348,000", System , No response from seller 
+,"201709131546942,000", Seller , No response from seller 
+,"201710182111395,000", Seller , Sold out 
+,"201708040530063,000", Seller , Sold out 
+,"201710272230311,000", Buyer , Misplaced Order 
+,"201710122021021,000", Seller , Sold out 
+,"201711032334288,000", Seller , No response from seller 
+,"201710122027265,000", Seller , No response from seller 
+,"201712122843573,000", Buyer , Customer’s change of mind 
+,"201709171623071,000", Buyer , Customer’s change of mind 
+,"201712112836563,000", System , No response from seller 
+,"201708200982783,000", System , No response from seller 
+,"201710182113420,000", Buyer , Misplaced Order 
+,"201712102820539,000", System , No response from seller 
+,"201708241097554,000", System , No response from seller 
+,"201711272652226,000", Seller , Sold out 
+,"201710292252338,000", Seller , Sold out 
+,"201707109444192,000", Seller , No response from seller 
+,"201709251744656,000", Buyer , Misplaced Order 
+,"201712052748403,000", Seller , No response from seller 
+,"201711222594778,000", System , No response from seller 
+,"201712072774030,000", Seller , Sold out 
+,"201712022716853,000", Seller , Sold out 
+,"201708100724268,000", Seller , No response from seller 
+,"201712062761886,000", Buyer , Misplaced Order 
+,"201711102425055,000", Seller , Sold out 
+,"201707310382370,000", System , No response from seller 
+,"201710011851323,000", Seller , Sold out 
+,"201711102432961,000", Seller , Sold out 
+,"201708090709419,000", Seller , Sold out 
+,"201709181639035,000", Seller , Sold out 
+,"201707139613835,000", Buyer , Get lower price 
+,"201712042731730,000", Seller , No response from seller 
+,"201712092809334,000", System , No response from seller 
+,"201712072780624,000", Buyer , Get lower price 
+,"201709291831271,000", Seller , Sold out 
+,"201708150862030,000", Seller , No response from seller 
+,"201711072378285,000", Seller , No response from seller 
+,"201712072781699,000", Seller , Sold out 
+,"201712052748575,000", Seller , No response from seller 
+,"201708231078613,000", Seller , No response from seller 
+,"201709271787980,000", Seller , No response from seller 
+,"201707209913032,000", Seller , No response from seller 
+,"201712042731991,000", Seller , No response from seller 
+,"201710101979288,000", Seller , No response from seller 
+,"201711062370014,000", Seller , No response from seller 
+,"201712032724515,000", Seller , Sold out 
+,"201712092807499,000", System , No response from seller 
+,"201708180932986,000", Seller , Sold out 
+,"201712112835661,000", System , No response from seller 
+,"201709121519664,000", Seller , Sold out 
+,"201711102422393,000", Seller , Sold out 
+,"201711142486855,000", Seller , No response from seller 
+,"201709021281898,000", System , No response from seller 
+,"201710162074218,000", Buyer , Get lower price 
+,"201709231725279,000", System , No response from seller 
+,"201709121526285,000", Seller , No response from seller 
+,"201712112837618,000", System , No response from seller 
+,"201711132474082,000", Seller , Sold out 
+,"201712092809208,000", Seller , Sold out 
+,"201712112839297,000", System , No response from seller 
+,"201710061932741,000", Buyer , Get lower price 
+,"201709091468836,000", Buyer , Misplaced Order 
+,"201712112841969,000", System , No response from seller 
+,"201711222594885,000", Seller , No response from seller 
+,"201709221702523,000", Seller , No response from seller 
+,"201709111500162,000", Seller , No response from seller 
+,"201707018922190,000", Seller , Sold out 
+,"201708090691925,000", Seller , No response from seller 
+,"201708190966485,000", Seller , No response from seller 
+,"201710272232624,000", Seller , No response from seller 
+,"201712052756330,000", Seller , No response from seller 
+,"201707189865807,000", Seller , No response from seller 
+,"201708070623625,000", Seller , Delivery Delay 
+,"201709111507127,000", System , No response from seller 
+,"201710202145688,000", Seller , Sold out 
+,"201712042741489,000", Seller , No response from seller 
+,"201711172532211,000", Seller , Sold out 
+,"201710162071034,000", Seller , Sold out 
+,"201709271795847,000", Seller , No response from seller 
+,"201712012699684,000", Buyer , Misplaced Order 
+,"201712062772457,000", Seller , No response from seller 
+,"201710132043481,000", Buyer , Misplaced Order 
+,"201710081949577,000", Buyer , Misplaced Order 
+,"201707018929390,000", Buyer , Get lower price 
+,"201710112002110,000", Seller , Sold out 
+,"201707300327666,000", System , No response from seller 
+,"201712102810329,000", System , No response from seller 
+,"201707099412528,000", Buyer , Misplaced Order 
+,"201710081951162,000", Seller , No response from seller 
+,"201708090708591,000", System , No response from seller 
+,"201710262222546,000", Buyer , Get lower price 
+,"201707059168110,000", Seller , Delivery Delay 
+,"201711032321872,000", Seller , Sold out 
+,"201710302266943,000", Seller , No response from seller 
+,"201710081950046,000", Seller , Sold out 
+,"201712062769910,000", Seller , Sold out 
+,"201711202559180,000", System , No response from seller 
+,"201709071407979,000", Seller , No response from seller 
+,"201712072781996,000", System , No response from seller 
+,"201712092806747,000", Seller , Sold out 
+,"201712112822913,000", System , No response from seller 
+,"201711082403637,000", Buyer , Get lower price 
+,"201712112832955,000", Seller , Delivery Delay 
+,"201709051372648,000", System , No response from seller 
+,"201707169750365,000", System , No response from seller 
+,"201710101985902,000", System , No response from seller 
+,"201712092808467,000", System , No response from seller 
+,"201707169760869,000", System , No response from seller 
+,"201710132041887,000", Seller , No response from seller 
+,"201708301220045,000", Seller , No response from seller 
+,"201710182113830,000", Buyer , Misplaced Order 
+,"201708080680426,000", System , No response from seller 
+,"201710021860973,000", Seller , No response from seller 
+,"201711082403577,000", Seller , Sold out 
+,"201709011264955,000", Seller , Sold out 
+,"201710041888920,000", System , No response from seller 
+,"201710302261772,000", System , No response from seller 
+,"201712062771797,000", System , No response from seller 
+,"201710112005212,000", Buyer , Misplaced Order 
+,"201712112825534,000", Buyer , Misplaced Order 
+,"201709021280679,000", Buyer , Get lower price 
+,"201712042743922,000", Seller , Sold out 
+,"201710262216360,000", Seller , Sold out 
+,"201711032332772,000", Buyer , Misplaced Order 
+,"201710262216191,000", Seller , Sold out 
+,"201712022712973,000", Seller , No response from seller 
+,"201712122843945,000", System , No response from seller 
+,"201711012290804,000", Seller , Delivery Delay 
+,"201707169754189,000", System , No response from seller 
+,"201709251748783,000", System , No response from seller 
+,"201711032330588,000", System , No response from seller 
+,"201711282667224,000", Seller , No response from seller 
+,"201709181639474,000", Seller , Sold out 
+,"201707139615577,000", Buyer , Get lower price 
+,"201709081433034,000", Seller , Delivery Delay 
+,"201707129590333,000", Seller , No response from seller 
+,"201711162509875,000", Seller , No response from seller 
+,"201711082402365,000", Seller , No response from seller 
+,"201709081438880,000", Seller , No response from seller 
+,"201711172526702,000", Seller , No response from seller 
+,"201708070637981,000", Buyer , Get lower price 
+,"201707039029811,000", System , No response from seller 
+,"201707089355246,000", Seller , Sold out 
+,"201711292671737,000", System , No response from seller 
+,"201712022715765,000", Seller , Sold out 
+,"201709271788657,000", Seller , No response from seller 
+,"201711022316320,000", System , No response from seller 
+,"201710061931644,000", Seller , No response from seller 
+,"201709101481176,000", Seller , Sold out 
+,"201712032728072,000", Seller , No response from seller 
+,"201712102813492,000", Buyer , Misplaced Order 
+,"201710162083182,000", Seller , No response from seller 
+,"201707179807483,000", Seller , Incorrect price information 
+,"201709271782548,000", Seller , Sold out 
+,"201709051356106,000", Seller , No response from seller 
+,"201708020456250,000", System , No response from seller 
+,"201710041895317,000", Seller , No response from seller 
+,"201710021871245,000", Seller , No response from seller 
+,"201712072785804,000", System , No response from seller 
+,"201712072773937,000", System , No response from seller 
+,"201706308826578,000", Buyer , Get lower price 
+,"201710021867246,000", System , No response from seller 
+,"201712112833440,000", System , No response from seller 
+,"201709141570019,000", Seller , Sold out 
+,"201711012293752,000", Buyer , Get lower price 
+,"201712032725977,000", Seller , No response from seller 
+,"201710252207421,000", Seller , No response from seller 
+,"201707069181578,000", Buyer , Get lower price 
+,"201712022716952,000", System , No response from seller 
+,"201712062763641,000", Seller , Sold out 
+,"201709071410760,000", System , No response from seller 
+,"201711052355595,000", System , No response from seller 
+,"201707039068075,000", Seller , No response from seller 
+,"201708020453378,000", Buyer , Misplaced Order 
+,"201707028957727,000", Seller , Sold out 
+,"201710162072137,000", Seller , No response from seller 
+,"201712072780739,000", Seller , Sold out 
+,"201708070614107,000", System , No response from seller 
+,"201709051352737,000", Seller , Sold out 
+,"201710182110134,000", Seller , No response from seller 
+,"201708291192592,000", Seller , No response from seller 
+,"201712072782610,000", Buyer , Misplaced Order 
+,"201712112841684,000", System , No response from seller 
+,"201712082788898,000", Seller , Sold out 
+,"201709031308483,000", Seller , No response from seller 
+,"201707119538483,000", Seller , No response from seller 
+,"201710031878300,000", Seller , Sold out 
+,"201712112820772,000", System , No response from seller 
+,"201708180935977,000", System , No response from seller 
+,"201711042344811,000", Seller , Sold out 
+,"201709061389239,000", Seller , No response from seller 
+,"201711162515472,000", System , No response from seller 
+,"201708110754237,000", Seller , Sold out 
+,"201709081438894,000", Buyer , Get lower price 
+,"201709191653372,000", Seller , No response from seller 
+,"201711042342805,000", Seller , Sold out 
+,"201710212157448,000", Seller , No response from seller 
+,"201711032332747,000", Buyer , Get lower price 
+,"201710282245089,000", Seller , Sold out 
+,"201708160901594,000", Seller , Sold out 
+,"201711072386464,000", Seller , Sold out 
+,"201709251745522,000", Seller , No response from seller 
+,"201707109480332,000", Buyer , Get lower price 
+,"201707139651025,000", Seller , No response from seller 
+,"201712112839702,000", System , No response from seller 
+,"201708060598388,000", Seller , Sold out 
+,"201708020467371,000", Seller , Sold out 
+,"201711292680962,000", Seller , No response from seller 
+,"201710132038581,000", Seller , Sold out 
+,"201711092414538,000", Seller , Sold out 
+,"201710262218110,000", Buyer , Misplaced Order 
+,"201709151592105,000", Seller , No response from seller 
+,"201710122030006,000", Buyer , Misplaced Order 
+,"201710031877866,000", System , No response from seller 
+,"201708090692884,000", Seller , No response from seller 
+,"201707039062833,000", Seller , Sold out 
+,"201710101981475,000", Seller , Sold out 
+,"201712112840356,000", System , No response from seller 
+,"201711022302325,000", System , No response from seller 
+,"201710192123723,000", Seller , Sold out 
+,"201712042743343,000", Seller , No response from seller 
+,"201709061390036,000", Buyer , Misplaced Order 
+,"201712112833092,000", System , No response from seller 
+,"201710222167963,000", Buyer , Get lower price 
+,"201712052756783,000", Seller , No response from seller 
+,"201707059153132,000", Seller , Sold out 
+,"201711282670344,000", Buyer , Get lower price 
+,"201712082788495,000", Seller , Sold out 
+,"201711032329965,000", Seller , No response from seller 
+,"201709031295804,000", Buyer , Get lower price 
+,"201710132035293,000", Seller , No response from seller 
+,"201711272654327,000", Seller , No response from seller 
+,"201709111499864,000", Seller , No response from seller 
+,"201708291208840,000", Buyer , Misplaced Order 
